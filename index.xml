@@ -105,11 +105,11 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://avolkov-dazn.github.io/cv/</guid>
-      <description>I am a strong believer in optimization, improvement and automation of existing processes and deployments. I am passionate about CI/CD and IaC.
+      <description>I am an automation enthusiast who gets excited about Cloud, Microservices, CI/CD and IaC.
+NOTE: This is a brief version of the CV with the relevant experience and skills. Full version of my CV can be obtained on LinkedIn.
 Experience DAZN Site Reliability Engineer
 August 2018 - Current
-Live and on-demand sports media streaming. DAZN is currently available in Germany, Austria, Switzerland, Italy, USA, Canada and Japan on most connected devices including Smart TVs, smartphones, tablets, and games consoles. Languages: Golang, Bash, Python
-Cloud: AWS, Lambdas, Terraform</description>
+Live and on-demand sports media streaming. DAZN is currently available in Germany, Austria, Switzerland, Italy, USA, Canada and Japan on most connected devices including Smart TVs, smartphones, tablets, and games consoles.</description>
     </item>
     
   </channel>
