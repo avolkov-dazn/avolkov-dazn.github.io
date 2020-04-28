@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Volkov</title>
-    <link>https://avolkov-dazn.github.io/</link>
+    <link>https://tapatoo.github.io/</link>
     <description>Recent content on Alexander Volkov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://avolkov-dazn.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tapatoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://avolkov-dazn.github.io/about-me/</link>
+      <link>https://tapatoo.github.io/about-me/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/about-me/</guid>
+      <guid>https://tapatoo.github.io/about-me/</guid>
       <description>I believe the world of technology is awesome. I worked with a wide range of tech starting out in the Windows world, getting experience in networking, security, various flavours of Linux and finally embrasing the DevOps culture. My fascination with Technology continues to grow with my experience. It seems there is no end to progress and I am always engaged, challenged and interested.
  OS - Linux, Mac OSX Cloud – AWS DevOps - Terraform, Git, CI/CD, Docker Languages - Golang, Bash, Python  </description>
     </item>
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>
-      <link>https://avolkov-dazn.github.io/posts/the-figure-shortcode/</link>
+      <link>https://tapatoo.github.io/posts/the-figure-shortcode/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/the-figure-shortcode/</guid>
+      <guid>https://tapatoo.github.io/posts/the-figure-shortcode/</guid>
       <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
 https://gohugo.io/content-management/shortcodes/#figure
 This theme has 3 CSS classes made for figure elements:
@@ -36,50 +36,51 @@ This theme has 3 CSS classes made for figure elements:
     
     <item>
       <title>Post With Featured Image</title>
-      <link>https://avolkov-dazn.github.io/posts/post-with-featured-image/</link>
+      <link>https://tapatoo.github.io/posts/post-with-featured-image/</link>
       <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/post-with-featured-image/</guid>
+      <guid>https://tapatoo.github.io/posts/post-with-featured-image/</guid>
       <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
 For example:
----images:-https://picsum.photos/1024/768/?random--- This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+---images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://avolkov-dazn.github.io/posts/typography/</link>
+      <link>https://tapatoo.github.io/posts/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/typography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://tapatoo.github.io/posts/typography/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://avolkov-dazn.github.io/posts/creating-a-new-theme/</link>
+      <link>https://tapatoo.github.io/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/creating-a-new-theme/</guid>
+      <guid>https://tapatoo.github.io/posts/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://avolkov-dazn.github.io/posts/goisforlovers/</link>
+      <link>https://tapatoo.github.io/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/goisforlovers/</guid>
+      <guid>https://tapatoo.github.io/posts/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://avolkov-dazn.github.io/posts/hugoisforlovers/</link>
+      <link>https://tapatoo.github.io/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/hugoisforlovers/</guid>
+      <guid>https://tapatoo.github.io/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -90,10 +91,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://avolkov-dazn.github.io/posts/migrate-from-jekyll/</link>
+      <link>https://tapatoo.github.io/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/posts/migrate-from-jekyll/</guid>
+      <guid>https://tapatoo.github.io/posts/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -101,13 +102,13 @@ Follow the following steps:
     
     <item>
       <title></title>
-      <link>https://avolkov-dazn.github.io/cv/</link>
+      <link>https://tapatoo.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://avolkov-dazn.github.io/cv/</guid>
+      <guid>https://tapatoo.github.io/cv/</guid>
       <description>I am an automation enthusiast who gets excited about Cloud, Microservices, CI/CD and IaC.
-NOTE: This is a brief version of the CV with the relevant experience and skills. Full version of my CV can be obtained on LinkedIn.
-Experience DAZN Site Reliability Engineer
+ NOTE: This is a brief version of the CV with the relevant experience and skills. Full version of my CV can be obtained on LinkedIn.
+ Experience DAZN Site Reliability Engineer
 August 2018 - Current
 Live and on-demand sports media streaming. DAZN is currently available in Germany, Austria, Switzerland, Italy, USA, Canada and Japan on most connected devices including Smart TVs, smartphones, tablets, and games consoles.</description>
     </item>
